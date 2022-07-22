@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Three-arrow cycle labeled as study, experimentation, and reflection.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: RES-CMS-154S19.jpg
