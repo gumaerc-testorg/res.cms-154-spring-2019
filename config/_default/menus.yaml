@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-6217bebe361e445c9fd4030e5ff2737b
+- identifier: dc57133b-afee-484d-b010-6508e0392c1a
   name: Online Publication
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+11.154x+3T2018/about
+  pageRef: /external-resources/online-publication_dc57133b-afee-484d-b010-6508e0392c1a
   weight: 1000
